@@ -29,6 +29,10 @@ Transfer Money: Send money to other users.
 
 Get Bonus: Use promo codes for instant bonuses.
 
+Pay Bill: Pay utility bills like electricity, gas, and mobile recharge.
+
+Transaction History: Track all transactions with detailed logs.
+
 📄 Usage
 
 Clone or download the repository.
@@ -40,6 +44,3 @@ Open home.html in your browser to start using the application.
 This project is designed to be a simple, client-side application. For a full-fledged MFS solution, consider integrating backend services and databases.
 
 Use : mobile number:1835854295 and pin: 1234
-Pay Bill: Pay utility bills like electricity, gas, and mobile recharge.
-
-Transaction History: Track all transactions with detailed logs.
