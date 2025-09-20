@@ -5,7 +5,7 @@ A lightweight, user-friendly web application designed to simplify personal finan
 🌐 Live Demo
 
 Experience the app in action:
-👉 https://raihan369.github.io/payoo-mfs-responsive-web/home.html
+👉 https://raihan369.github.io/payoo-mfs-responsive-web/ 
 
 🛠️ Technologies Used
 
